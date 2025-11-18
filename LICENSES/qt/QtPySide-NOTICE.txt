@@ -1,0 +1,20 @@
+Qt / PySide6 — Third-Party NOTICE
+=================================
+Questa applicazione include PySide6 (Qt for Python), che incorpora componenti di terze parti.
+I loro testi di licenza sono forniti in questa cartella.
+
+Moduli Qt usati: Core, Gui, Widgets.
+
+Componenti tipici inclusi da Qt:
+- zlib            — vedi: zlib-LICENSE.txt
+- libpng          — vedi: libpng-LICENSE.txt
+- FreeType        — vedi: freetype-LICENSE.txt
+- HarfBuzz        — vedi: harfbuzz-LICENSE.txt
+- PCRE2           — vedi: pcre2-LICENSE.txt
+- double-conversion — vedi: double-conversion-LICENSE.txt
+- MD4C            — vedi: md4c-LICENSE.txt
+- Brotli          — vedi: brotli-LICENSE.txt
+- ICU (Unicode)   — vedi: icu-UNICODE-LICENSE.txt
+
+I diritti dell’utente su PySide6/Qt sono quelli previsti da LGPLv3 (sostituibilità della libreria,
+reverse engineering per il debug di modifiche, ecc.).
