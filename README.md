@@ -17,8 +17,8 @@ Dal diagramma genera automaticamente codice C++ per microcontrollori basato sull
 - Generazione automatica del codice C++
   - Struttura già pronta per essere integrata nel firmware
   - Nomi di variabili coerenti con quelli usati nel diagramma
-- Inserimento codice personalizzato
-  - Interfaccia grafica per agevolare punto di inserimento
+- Inserimento codice C++ utente
+  - Gestione guidata del codice C++ senza dover modificare manualmente il file generato
 - Libreria di casi (cases.json)
   - Blocchi funzionali riutilizzabili (es. servo, sensori, ecc.)
   - Possibilità di estendere la libreria con casi personalizzati
