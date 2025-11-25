@@ -1,7 +1,7 @@
 # GrafcetT Editor
 
-GrafcetT Editor è un ambiente grafico per la modellazione di sistemi sequenziali a stati (Sequential Function Chart) con transizioni condizionate.  
-Dal diagramma genera automaticamente codice C++ per microcontrollori basato sulla libreria: **[GrafcetT](https://github.com/tulliocarlassara/GrafcetT)**.
+**[GrafcetT Editor](https://github.com/tulliocarlassara/GrafcetT_Editor/releases)** è un ambiente grafico per la modellazione di sistemi sequenziali a stati (Sequential Function Chart) con transizioni condizionate.  
+Dal diagramma genera automaticamente codice C++ per microcontrollori basato sulla libreria **[GrafcetT](https://github.com/tulliocarlassara/GrafcetT)**.
 ![](Immagine.png)
 
 ### Caratteristiche principali
