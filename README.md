@@ -9,6 +9,27 @@ GrafcetT Editor è sviluppato in [Python](https://www.python.org/) e si appoggia
 [pyserial](https://pyserial.readthedocs.io/) per l’interfaccia grafica, l’elaborazione simbolica
 e la comunicazione seriale.
 
+### Obiettivi
+GrafcetT Editor ha finalità esclusivamente didattiche. È pensato per abbassare la difficoltà d’ingresso alla programmazione di microcontrollori, aiutando gli studenti a passare con gradualità da un modello grafico “comprensibile” al codice C++ reale.
+
+L’approccio GRAFCET / SFC è particolarmente efficace per imparare perché:
+- rende visibile la logica sequenziale (stati/step, transizioni, azioni)
+- aiuta a ragionare in modo ordinato su condizioni, temporizzazioni, eventi
+
+GrafcetT Editor genera codice C++ coerente con il diagramma e questo invita a:
+- confrontare “grafico ↔ codice”
+- capire come una logica si traduce in istruzioni
+- modificare ed estendere il firmware con più consapevolezza
+
+In altre parole: non vuole sostituire lo studio del codice, ma creare un ponte che lo renda più accessibile.
+
+### Origini del progetto
+GrafcetT Editor è l’evoluzione di un percorso iniziato circa dieci anni fa con la libreria GrafcetT, pensata per implementare logiche GRAFCET su microcontrollori e supportarne la traduzione in C++.
+
+Lo sviluppo è stato guidato dall’esperienza didattica: l’esigenza di rendere più chiaro il passaggio dalla logica sequenziale al codice, e di fornire strumenti concreti per le spiegazioni e gli esercizi.
+
+L’editor è uno strumento per progettare, verificare e generare codice in modo guidato.
+
 ### Caratteristiche principali
 
 - Editor grafico per step, transizioni, azioni
