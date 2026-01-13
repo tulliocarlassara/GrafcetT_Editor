@@ -15,6 +15,7 @@ Componenti tipici inclusi da Qt:
 - MD4C            — vedi: md4c-LICENSE.txt
 - Brotli          — vedi: brotli-LICENSE.txt
 - ICU (Unicode)   — vedi: icu-UNICODE-LICENSE.txt
+- Mesa 3D         — vedi: mesa-LICENSE.txt
 
 I diritti dell’utente su PySide6/Qt sono quelli previsti da LGPLv3 (sostituibilità della libreria,
 reverse engineering per il debug di modifiche, ecc.).
