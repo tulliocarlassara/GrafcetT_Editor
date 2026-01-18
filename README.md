@@ -28,7 +28,7 @@ GrafcetT Editor è l’evoluzione di un percorso iniziato circa dieci anni fa co
 
 Lo sviluppo è stato guidato dall’esperienza didattica: l’esigenza di rendere più chiaro il passaggio dalla logica sequenziale al codice, e di fornire strumenti concreti per le spiegazioni e gli esercizi.
 
-L’editor è uno strumento per progettare, verificare e generare codice in modo guidato.
+L’editor è uno strumento per progettare, verificare e generare codice in modo assistito.
 
 ### Caratteristiche principali
 
