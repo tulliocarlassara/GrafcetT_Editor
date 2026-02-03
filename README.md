@@ -10,7 +10,7 @@ GrafcetT Editor è sviluppato in [Python](https://www.python.org/) e si appoggia
 e la comunicazione seriale.
 
 ### Obiettivi
-GrafcetT Editor ha finalità esclusivamente didattiche. È pensato per abbassare la difficoltà d’ingresso alla programmazione di microcontrollori, aiutando gli studenti a passare con gradualità da un modello grafico “comprensibile” al codice C++ reale.
+GrafcetT Editor ha finalità esclusivamente didattiche, come impostazione e obiettivo del progetto. È pensato per abbassare la difficoltà d’ingresso alla programmazione di microcontrollori, aiutando gli studenti a passare con gradualità da un modello grafico “comprensibile” al codice C++ reale.
 
 L’approccio GRAFCET / SFC è particolarmente efficace per imparare perché:
 - rende visibile la logica sequenziale (stati/step, transizioni, azioni)
